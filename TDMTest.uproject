@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A3BD4310-44DF-5FD1-67D0-4ABF6B70BD94}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TDMTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
